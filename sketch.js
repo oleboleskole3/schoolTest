@@ -58,6 +58,6 @@ function windowResized()
 	resizeCanvas(windowWidth, windowHeight);
 	input.position(width * 0.5 - 100, height * 0.3);
 	div.position(width * 0.5 + 100, height * 0.3);
-	butn.position(width * 0.5 - 40, height * 0.4);
+	//butn.position(width * 0.5 - 40, height * 0.4);
 	regn()
 }

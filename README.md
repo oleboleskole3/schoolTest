@@ -1,1 +1,2 @@
 # schoolTest
+A school test

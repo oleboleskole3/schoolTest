@@ -24,7 +24,7 @@ function setup()
 
 function regn()
 {
-	div2.elt.innerHTML = 'Pant A: ' + String(ceil(Number(input.value()))) + '.<br><br>Pant B: '+ String(ceil(Number(input.value()) / 2)) + '.<br><br>Pant C: ' + String(ceil(Number(input.value()) / 3));
+	div2.elt.innerHTML = 'Pant A: ' + String(ceil(Number(input.value()))) + '.<br><br>Pant B: '+ String(ceil(Number(input.value()) / 1.5)) + '.<br><br>Pant C: ' + String(ceil(Number(input.value()) / 3));
 	div2.center();
 }
 
